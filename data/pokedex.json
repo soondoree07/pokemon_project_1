@@ -1010,7 +1010,11 @@
           "전기"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "일렉트릭메이커",
+            "en": "electric_surge",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10304.png"
@@ -1024,7 +1028,11 @@
           "전기"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "노가드",
+            "en": "no_guard",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10305.png"
@@ -13833,7 +13841,11 @@
           "비행"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "심술꾸러기",
+            "en": "contrary",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10308.png"
@@ -18515,7 +18527,11 @@
           "독"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "조가비갑옷",
+            "en": "shell_armor",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10288.png"
@@ -19182,7 +19198,11 @@
           "격투"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "위협",
+            "en": "intimidate",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10289.png"
@@ -20799,7 +20819,11 @@
           "전기"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "천정부지",
+            "en": "eelevate",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10290.png"
@@ -22951,7 +22975,11 @@
           "노말"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "불꽃의갈기",
+            "en": "fire_mane",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10295.png"
@@ -23614,7 +23642,11 @@
           "에스퍼"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "심술꾸러기",
+            "en": "contrary",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10297.png"
@@ -23692,7 +23724,11 @@
           "격투"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "단단한발톱",
+            "en": "tough_claws",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10298.png"
@@ -23770,7 +23806,11 @@
           "드래곤"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "재생력",
+            "en": "regenerator",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10299.png"
@@ -29635,7 +29675,11 @@
           "격투"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "오기",
+            "en": "defiant",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10303.png"

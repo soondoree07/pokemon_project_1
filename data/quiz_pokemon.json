@@ -931,7 +931,11 @@
           "전기"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "일렉트릭메이커",
+            "en": "electric_surge",
+            "hidden": false
+          }
         ]
       },
       {
@@ -943,7 +947,11 @@
           "전기"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "노가드",
+            "en": "no_guard",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -12826,7 +12834,11 @@
           "비행"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "심술꾸러기",
+            "en": "contrary",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -17217,7 +17229,11 @@
           "독"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "조가비갑옷",
+            "en": "shell_armor",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -17837,7 +17853,11 @@
           "격투"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "위협",
+            "en": "intimidate",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -19340,7 +19360,11 @@
           "전기"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "천정부지",
+            "en": "eelevate",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -21341,7 +21365,11 @@
           "노말"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "불꽃의갈기",
+            "en": "fire_mane",
+            "hidden": false
+          }
         ]
       },
       {
@@ -21980,7 +22008,11 @@
           "에스퍼"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "심술꾸러기",
+            "en": "contrary",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -22052,7 +22084,11 @@
           "격투"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "단단한발톱",
+            "en": "tough_claws",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -22124,7 +22160,11 @@
           "드래곤"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "재생력",
+            "en": "regenerator",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -27581,7 +27621,11 @@
           "격투"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "오기",
+            "en": "defiant",
+            "hidden": false
+          }
         ]
       }
     ],

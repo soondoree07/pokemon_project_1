@@ -1319,7 +1319,7 @@
     "gen": "1세대",
     "desc": "잎사귀를 날려 상대를 베어 공격한다. 급소에 맞기 쉽다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "はっぱカッター"
   },
@@ -5185,7 +5185,7 @@
     "gen": "3세대",
     "desc": "눈부신 빛을 발산하여 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "ラスターパージ"
   },
@@ -6320,7 +6320,7 @@
     "gen": "4세대",
     "desc": "잠듦 상태의 상대에게 큰 데미지를 준다. 대신 상대는 잠에서 깬다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "めざましビンタ"
   },
@@ -6414,7 +6414,7 @@
     "gen": "4세대",
     "desc": "나무열매에서 힘을 얻어 공격한다. 지니게 한 나무열매에 따라 기술의 타입과 위력이 바뀐다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "しぜんのめぐみ"
   },
@@ -6434,7 +6434,7 @@
     "move_categories": [
       "priority_move"
     ],
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "フェイント"
   },
@@ -6610,7 +6610,7 @@
     "gen": "4세대",
     "desc": "지니게 한 도구를 재빠르게 내던져서 공격한다. 도구에 따라 위력과 효과가 바뀐다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "なげつける"
   },
@@ -6645,7 +6645,7 @@
     "desc": "마지막수단의 남은 PP가 적으면 적을수록 기술의 위력이 올라간다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "きりふだ"
   },
@@ -6680,7 +6680,7 @@
     "gen": "4세대",
     "desc": "강하게 조여 공격을 한다. 상대의 HP가 많이 남아 있을수록 위력이 올라간다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "しぼりとる"
   },
@@ -7108,7 +7108,7 @@
     "gen": "4세대",
     "desc": "단단한 껍질을 가지고 있는 큰 씨앗을 힘껏 내던져 상대를 공격한다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "タネばくだん"
   },
@@ -7128,7 +7128,7 @@
     "move_categories": [
       "slicing_move"
     ],
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "エアスラッシュ"
   },
@@ -7262,7 +7262,7 @@
     "move_categories": [
       "priority_move"
     ],
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "しんくうは"
   },
@@ -7451,7 +7451,7 @@
     "move_categories": [
       "priority_move"
     ],
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "こおりのつぶて"
   },
@@ -7588,7 +7588,7 @@
     "move_categories": [
       "slicing_move"
     ],
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "サイコカッター"
   },
@@ -7605,7 +7605,7 @@
     "gen": "4세대",
     "desc": "사념의 힘을 이마에 모아서 공격한다. 상대를 풀죽게 만들 때가 있다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "しねんのずつき"
   },
@@ -7622,7 +7622,7 @@
     "gen": "4세대",
     "desc": "갈고 닦은 몸에서 섬광의 힘을 상대에게 쏜다. 명중률을 떨어뜨릴 때가 있다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "ミラーショット"
   },
@@ -7657,7 +7657,7 @@
     "desc": "굉장한 기세로 상대에게 돌진하여 공격한다. 상대를 혼란시킬 때가 있다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ロッククライム"
   },
@@ -7799,7 +7799,7 @@
     "gen": "4세대",
     "desc": "거대한 바위를 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없게 된다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "がんせきほう"
   },
@@ -7836,7 +7836,7 @@
     "gen": "4세대",
     "desc": "더러운 쓰레기를 상대에게 부딪쳐서 공격한다. 독 상태로 만들 때가 있다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "ダストシュート"
   },
@@ -7888,7 +7888,7 @@
     "gen": "4세대",
     "desc": "뾰족한 바위를 상대에게 꿰찔러서 공격한다. 급소에 맞기 쉽다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "ストーンエッジ"
   },
@@ -7939,7 +7939,7 @@
     "gen": "4세대",
     "desc": "풀을 휘감아서 상대를 쓰러뜨린다. 상대가 무거울수록 위력이 올라간다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "くさむすび"
   },
@@ -8064,7 +8064,7 @@
     "gen": "4세대",
     "desc": "부하를 불러내어 상대를 향해서 공격시킨다. 급소에 맞기 쉽다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "こうげきしれい"
   },
@@ -8119,7 +8119,7 @@
     "move_categories": [
       "recoil_move"
     ],
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "もろはのずつき"
   },
@@ -8207,7 +8207,7 @@
     "gen": "4세대",
     "desc": "굉장한 힘으로 상대를 묵사발로 만든다. 상대의 HP가 남아 있을수록 위력이 올라간다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "にぎりつぶす"
   },
@@ -8506,7 +8506,7 @@
     "gen": "5세대",
     "desc": "돌이나 구슬을 던져서 날고 있는 상대를 공격한다. 맞은 상대는 땅에 떨어진다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "うちおとす"
   },
@@ -8594,7 +8594,7 @@
     "gen": "5세대",
     "desc": "무거운 몸으로 상대에게 부딪쳐 공격한다. 자신이 상대보다 무거울수록 위력이 올라간다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "ヘビーボンバー"
   },
@@ -8736,7 +8736,7 @@
     "gen": "5세대",
     "desc": "상대의 힘을 이용한다. 싸우고 있는 상대의 공격이 높을수록 데미지가 올라간다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "イカサマ"
   },
@@ -9278,7 +9278,7 @@
     "gen": "5세대",
     "desc": "땅을 힘껏 밟아 자신의 주위에 있는 포켓몬을 공격한다. 상대의 스피드를 떨어뜨린다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "じならし"
   },
@@ -9386,7 +9386,7 @@
     "gen": "5세대",
     "desc": "드릴처럼 몸을 회전시켜서 상대에게 몸통박치기한다. 급소에 맞기 쉽다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "ドリルライナー"
   },
@@ -9421,7 +9421,7 @@
     "desc": "귀여운 모습으로 방심시켜서 강렬한 일격을 날린다. 상대를 풀죽게 만들 때가 있다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ハートスタンプ"
   },
@@ -9438,7 +9438,7 @@
     "gen": "5세대",
     "desc": "뿔을 꿰찔러서 상대의 양분을 흡수한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "ウッドホーン"
   },
@@ -9458,7 +9458,7 @@
     "move_categories": [
       "slicing_move"
     ],
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "せいなるつるぎ"
   },
@@ -9495,7 +9495,7 @@
     "gen": "5세대",
     "desc": "불타는 몸으로 상대에게 부딪쳐서 공격한다. 자신이 상대보다 무거울수록 위력이 올라간다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "ヒートスタンプ"
   },
@@ -9530,7 +9530,7 @@
     "desc": "둥글게 뭉친 몸을 회전하여 상대를 뭉개 버린다. 상대를 풀죽게 만들 때가 있다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ハードローラー"
   },
@@ -9601,7 +9601,7 @@
     "move_categories": [
       "multi_hit_move"
     ],
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "スイープビンタ"
   },
@@ -9655,7 +9655,7 @@
     "gen": "5세대",
     "desc": "강철의 기어를 상대에게 던져서 공격한다. 2회 연속으로 데미지를 준다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ギアソーサー"
   },
@@ -9757,7 +9757,7 @@
     "gen": "5세대",
     "desc": "방대한 전기를 몸에 둘러 상대에게 돌진해서 공격한다. 마비 상태로 만들 때가 있다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "らいげき"
   },
@@ -9882,7 +9882,7 @@
     "gen": "5세대",
     "desc": "작열하는 불꽃을 이마에서 발생시켜 이판사판으로 몸통박치기한다. 방어, 특수방어, 스피드가 떨어진다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "Ｖジェネレート"
   },
@@ -9933,7 +9933,7 @@
     "gen": "6세대",
     "desc": "공중에서 상대에게 다이브한다. 이 기술은 격투타입임과 동시에 비행타입이기도 하다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "フライングプレス"
   },
@@ -10475,7 +10475,7 @@
     "gen": "6세대",
     "desc": "다이아 폭풍을 일으켜 데미지를 준다. 자신의 방어를 올릴 때가 있다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "ダイヤストーム"
   },
@@ -10792,7 +10792,7 @@
     "gen": "6세대",
     "desc": "전기가 흐르는 볼을 비벼서 공격한다. 상대를 마비 상태로 만든다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "ほっぺすりすり"
   },
@@ -10810,7 +10810,7 @@
     "desc": "적당히 공격하여 상대의 HP를 반드시 1은 남긴다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "てかげん"
   },
@@ -10830,7 +10830,7 @@
     "move_categories": [
       "trapping_move"
     ],
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "まとわりつく"
   },
@@ -10881,7 +10881,7 @@
     "gen": "6세대",
     "desc": "떠 있는 포켓몬도 맞힐 수 있다. 떠 있던 상대는 맞아서 땅에 떨어진다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "サウザンアロー"
   },
@@ -10898,7 +10898,7 @@
     "gen": "6세대",
     "desc": "땅 위를 뻗어 나가는 파도로 공격한다. 파도에 휩쓸린 상대는 전투에서 도망칠 수 없게 된다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "サウザンウェーブ"
   },
@@ -10915,7 +10915,7 @@
     "gen": "6세대",
     "desc": "대지의 힘을 모으고 그 힘을 상대에게 집중시켜서 데미지를 준다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "グランドフォース"
   },
@@ -10966,7 +10966,7 @@
     "gen": "6세대",
     "desc": "대지의 힘을 칼날로 바꿔 상대를 공격한다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "だんがいのつるぎ"
   },
@@ -11000,7 +11000,7 @@
     "gen": "6세대",
     "desc": "많은 팔을 사용하여 방어와 판별을 무시하는 연속 공격이다. 자신의 방어가 떨어진다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": false,
     "ja": "いじげんラッシュ"
   },
@@ -11361,7 +11361,7 @@
     "desc_lang": "ko",
     "is_zmove": true,
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ひっさつのピカチュート"
   },
@@ -11398,7 +11398,7 @@
     "move_categories": [
       "priority_move"
     ],
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "であいがしら"
   },
@@ -11455,7 +11455,7 @@
     "gen": "7세대",
     "desc": "양팔을 돌려 상대에 부딪친다. 상대의 능력 변화에 상관없이 데미지를 준다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "ＤＤラリアット"
   },
@@ -11495,7 +11495,7 @@
     "move_categories": [
       "punching_move"
     ],
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "アイスハンマー"
   },
@@ -11529,7 +11529,7 @@
     "gen": "7세대",
     "desc": "온몸을 써서 상대에게 맹렬히 어택한다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "１０まんばりき"
   },
@@ -11566,7 +11566,7 @@
     "move_categories": [
       "slicing_move"
     ],
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "ソーラーブレード"
   },
@@ -11668,7 +11668,7 @@
     "gen": "7세대",
     "desc": "이 기술에 맞은 상대는 지옥의 고통 때문에 2턴 동안 소리 기술을 낼 수 없다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "じごくづき"
   },
@@ -11705,7 +11705,7 @@
     "gen": "7세대",
     "desc": "앵커를 상대에게 휘감아서 공격한다. 상대는 도망칠 수 없게 된다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "アンカーショット"
   },
@@ -11739,7 +11739,7 @@
     "gen": "7세대",
     "desc": "전력으로 상대에게 덤벼들며 공격한다. 상대의 공격을 떨어뜨린다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "とびかかる"
   },
@@ -11756,7 +11756,7 @@
     "gen": "7세대",
     "desc": "불타는 채찍으로 상대를 친다. 공격을 받은 상대는 방어가 떨어진다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "ほのおのムチ"
   },
@@ -12035,7 +12035,7 @@
     "desc_lang": "ko",
     "is_zmove": true,
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ハイパーダーククラッシャー"
   },
@@ -12092,7 +12092,7 @@
     "desc_lang": "ko",
     "is_zmove": true,
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "しちせいだっこんたい"
   },
@@ -12130,7 +12130,7 @@
     "desc_lang": "ko",
     "is_zmove": true,
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ほんきをだす　こうげき"
   },
@@ -12344,7 +12344,7 @@
     "gen": "7세대",
     "desc": "유성 같은 기세로 돌진한다. 상대의 특성을 무시하고 공격할 수 있다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "メテオドライブ"
   },
@@ -12538,7 +12538,7 @@
     "desc_lang": "ko",
     "is_zmove": true,
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "サンシャインスマッシャー"
   },
@@ -12576,7 +12576,7 @@
     "desc_lang": "ko",
     "is_zmove": true,
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ぽかぼかフレンドタイム"
   },
@@ -12632,7 +12632,7 @@
     "desc": "맹렬한 속도의 전격 공격. 반드시 선제공격할 수 있고 급소에 맞는다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ばちばちアクセル"
   },
@@ -12668,7 +12668,7 @@
     "desc": "두둥실 떠오른 다음 단숨에 급강하해서 공격한다. 상대를 풀죽게 만들 때가 있다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ふわふわフォール"
   },
@@ -12740,7 +12740,7 @@
     "desc": "불꽃을 두른 몸으로 기세 좋게 상대에게 부딪친다. 상대를 화상 상태로 만든다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "めらめらバーン"
   },
@@ -12848,7 +12848,7 @@
     "desc": "트레이너를 좋아하는 이브이의 마음이 강할수록 위력이 올라가는 몸통박치기. 반드시 명중한다.",
     "desc_lang": "ko",
     "hidden": true,
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "ブイブイブレイク"
   },
@@ -14054,7 +14054,7 @@
     "gen": "8세대",
     "desc": "상대의 지닌 물건을 조종해서 공격한다. 상대가 도구를 지니고 있지 않으면 실패한다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "ポルターガイスト"
   },
@@ -15279,7 +15279,7 @@
     "gen": "9세대",
     "desc": "변형하며 초고속으로 달려서 미지의 전격으로 상대를 관통한다. 약점인 상대에게는 위력이 더욱 올라간다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": false,
     "ja": "イナズマドライブ"
   },
@@ -15634,7 +15634,7 @@
     "gen": "9세대",
     "desc": "덩굴을 휘감은 방망이로 때린다. 쓰고 있는 가면에 따라 타입이 바뀐다. 급소에 맞기 쉽다.",
     "desc_lang": "ko",
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "ツタこんぼう"
   },
@@ -15757,7 +15757,7 @@
       "multi_hit_move",
       "slicing_move"
     ],
-    "contact": true,
+    "contact": false,
     "in_champions": true,
     "ja": "タキオンカッター"
   },
@@ -15885,7 +15885,7 @@
     "gen": "9세대",
     "desc": "움직임에 반응하여 손바닥으로 밀쳐서 상대를 풀죽게 한다. 상대가 쓴 기술이 선제공격 기술이 아니면 실패한다.",
     "desc_lang": "ko",
-    "contact": false,
+    "contact": true,
     "in_champions": true,
     "ja": "はやてがえし"
   },
