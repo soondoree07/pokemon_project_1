@@ -11679,7 +11679,11 @@
           "고스트"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "예리함",
+            "en": "sharpness",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -14219,7 +14223,11 @@
           "드래곤"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "부유",
+            "en": "levitate",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -14335,7 +14343,11 @@
           "강철"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "파동의방호",
+            "en": "aura_guard",
+            "hidden": false
+          }
         ]
       }
     ],

@@ -12593,7 +12593,11 @@
           "고스트"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "예리함",
+            "en": "sharpness",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10307.png"
@@ -15288,7 +15292,11 @@
           "드래곤"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "부유",
+            "en": "levitate",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__home__shiny__10309.png"
@@ -15414,7 +15422,11 @@
           "강철"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "파동의방호",
+            "en": "aura_guard",
+            "hidden": false
+          }
         ],
         "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10310.png"

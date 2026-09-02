@@ -110,7 +110,7 @@ function main() {
       return entry;
     });
 
-  fs.writeFileSync(outPath, JSON.stringify(out, null, 1));
+  fs.writeFileSync(outPath, JSON.stringify(out, null, 2));
   const champCount = out.filter((p) => p.inChampions).length;
   const formCount = out.reduce((n, p) => n + p.forms.length, 0);
   console.log(
