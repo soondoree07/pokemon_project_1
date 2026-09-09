@@ -1561,7 +1561,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__40.png"
   },
   {
