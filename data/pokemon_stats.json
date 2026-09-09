@@ -15314,6 +15314,19 @@
     }
   },
   {
+    "ko": "시비꼬 옐로 페더",
+    "en": "squawkabilly_yellow",
+    "form_type": "alt",
+    "stats": {
+      "H": 82,
+      "A": 96,
+      "B": 51,
+      "C": 45,
+      "D": 51,
+      "S": 92
+    }
+  },
+  {
     "ko": "베베솔트",
     "en": "nacli",
     "form_type": null,

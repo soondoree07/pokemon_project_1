@@ -24543,7 +24543,11 @@
           "강철"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "단단한발톱",
+            "en": "tough_claws",
+            "hidden": false
+          }
         ]
       }
     ],
@@ -29564,7 +29568,35 @@
         "hidden": true
       }
     ],
-    "forms": [],
+    "forms": [
+      {
+        "type": "alt",
+        "name_ko": "시비꼬 옐로 페더",
+        "name_en": "squawkabilly_yellow",
+        "sprite": "sprites/pokemon/master__sprites__pokemon__other__official-artwork__931.png",
+        "types": [
+          "노말",
+          "비행"
+        ],
+        "abilities": [
+          {
+            "ko": "위협",
+            "en": "intimidate",
+            "hidden": false
+          },
+          {
+            "ko": "의욕",
+            "en": "hustle",
+            "hidden": false
+          },
+          {
+            "ko": "우격다짐",
+            "en": "sheer_force",
+            "hidden": true
+          }
+        ]
+      }
+    ],
     "ja": "イキリンコ"
   },
   {
@@ -31425,7 +31457,11 @@
           "얼음"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "열교환",
+            "en": "thermal_exchange",
+            "hidden": false
+          }
         ]
       }
     ],
