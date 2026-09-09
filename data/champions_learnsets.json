@@ -4830,6 +4830,349 @@
     ]
   },
   {
+    "id": 53,
+    "ko": "페르시온",
+    "en": "persian",
+    "moves": [
+      {
+        "en": "power_gem",
+        "ko": "파워젬",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "fake_out",
+        "ko": "속이기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "feint",
+        "ko": "페인트",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "switcheroo",
+        "ko": "바꿔치기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "bite",
+        "ko": "물기",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "assurance",
+        "ko": "승부굳히기",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "screech",
+        "ko": "싫은소리",
+        "method": "level-up",
+        "level": 36
+      },
+      {
+        "en": "nasty_plot",
+        "ko": "나쁜음모",
+        "method": "level-up",
+        "level": 48
+      },
+      {
+        "en": "play_rough",
+        "ko": "치근거리기",
+        "method": "level-up",
+        "level": 54
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "roar",
+        "ko": "울부짖기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunderbolt",
+        "ko": "10만볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_wave",
+        "ko": "전기자석파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder",
+        "ko": "번개",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "agility",
+        "ko": "고속이동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "amnesia",
+        "ko": "망각술",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "spite",
+        "ko": "원한",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "icy_wind",
+        "ko": "얼어붙은바람",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charm",
+        "ko": "애교부리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "pain_split",
+        "ko": "아픔나누기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psych_up",
+        "ko": "자기암시",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "knock_off",
+        "ko": "탁쳐서떨구기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endeavor",
+        "ko": "죽기살기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_voice",
+        "ko": "하이퍼보이스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fake_tears",
+        "ko": "거짓울음",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "aerial_ace",
+        "ko": "제비반환",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "u_turn",
+        "ko": "유턴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dark_pulse",
+        "ko": "악의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "seed_bomb",
+        "ko": "씨폭탄",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_claw",
+        "ko": "섀도클로",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "gunk_shot",
+        "ko": "더스트슈트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "foul_play",
+        "ko": "속임수",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snarl",
+        "ko": "바크아웃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "throat_chop",
+        "ko": "지옥찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "skitter_smack",
+        "ko": "엄습하는일격",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "lash_out",
+        "ko": "분풀이",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trailblaze",
+        "ko": "개척하기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "chilling_water",
+        "ko": "찬물끼얹기",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
     "id": 59,
     "ko": "윈디",
     "en": "arcanine",
@@ -6809,6 +7152,265 @@
     ]
   },
   {
+    "id": 83,
+    "ko": "파오리",
+    "en": "farfetchd",
+    "moves": [
+      {
+        "en": "brutal_swing",
+        "ko": "세차게휘두르기",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "detect",
+        "ko": "판별",
+        "method": "level-up",
+        "level": 25
+      },
+      {
+        "en": "knock_off",
+        "ko": "탁쳐서떨구기",
+        "method": "level-up",
+        "level": 30
+      },
+      {
+        "en": "defog",
+        "ko": "안개제거",
+        "method": "level-up",
+        "level": 35
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "level-up",
+        "level": 45
+      },
+      {
+        "en": "leaf_blade",
+        "ko": "리프블레이드",
+        "method": "level-up",
+        "level": 55
+      },
+      {
+        "en": "final_gambit",
+        "ko": "목숨걸기",
+        "method": "level-up",
+        "level": 60
+      },
+      {
+        "en": "brave_bird",
+        "ko": "브레이브버드",
+        "method": "level-up",
+        "level": 65
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_energy",
+        "ko": "기충전",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snore",
+        "ko": "코골기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "steel_wing",
+        "ko": "강철날개",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "attract",
+        "ko": "헤롱헤롱",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "superpower",
+        "ko": "엄청난힘",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "close_combat",
+        "ko": "인파이트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "assurance",
+        "ko": "승부굳히기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "poison_jab",
+        "ko": "독찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "round",
+        "ko": "돌림노래",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "work_up",
+        "ko": "분발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_blade",
+        "ko": "솔라블레이드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "throat_chop",
+        "ko": "지옥찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "counter",
+        "ko": "카운터",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "quick_attack",
+        "ko": "전광석화",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "sky_attack",
+        "ko": "불새",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "curse",
+        "ko": "저주",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "flail",
+        "ko": "바둥바둥",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "covet",
+        "ko": "탐내기",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "feint",
+        "ko": "페인트",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "night_slash",
+        "ko": "깜짝베기",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "simple_beam",
+        "ko": "심플빔",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "quick_guard",
+        "ko": "패스트가드",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "dual_wingbeat",
+        "ko": "더블윙",
+        "method": "tutor",
+        "level": 0
+      }
+    ]
+  },
+  {
     "id": 94,
     "ko": "팬텀",
     "en": "gengar",
@@ -8061,6 +8663,499 @@
         "en": "zen_headbutt",
         "ko": "사념의박치기",
         "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "ko": "마임맨",
+    "en": "mr_mime",
+    "moves": [
+      {
+        "en": "light_screen",
+        "ko": "빛의장막",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "reflect",
+        "ko": "리플렉터",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "safeguard",
+        "ko": "신비의부적",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "baton_pass",
+        "ko": "배턴터치",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "encore",
+        "ko": "앙코르",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "rapid_spin",
+        "ko": "고속스핀",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "role_play",
+        "ko": "역할",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "recycle",
+        "ko": "리사이클",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "copycat",
+        "ko": "흉내쟁이",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "ice_shard",
+        "ko": "얼음뭉치",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "misty_terrain",
+        "ko": "미스트필드",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "dazzling_gleam",
+        "ko": "매지컬샤인",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "ally_switch",
+        "ko": "사이드체인지",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "icy_wind",
+        "ko": "얼어붙은바람",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "hypnosis",
+        "ko": "최면술",
+        "method": "level-up",
+        "level": 32
+      },
+      {
+        "en": "mirror_coat",
+        "ko": "미러코트",
+        "method": "level-up",
+        "level": 36
+      },
+      {
+        "en": "sucker_punch",
+        "ko": "기습",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "freeze_dry",
+        "ko": "프리즈드라이",
+        "method": "level-up",
+        "level": 44
+      },
+      {
+        "en": "psychic",
+        "ko": "사이코키네시스",
+        "method": "level-up",
+        "level": 48
+      },
+      {
+        "en": "teeter_dance",
+        "ko": "흔들흔들댄스",
+        "method": "level-up",
+        "level": 52
+      },
+      {
+        "en": "ice_punch",
+        "ko": "냉동펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mega_kick",
+        "ko": "메가톤킥",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_beam",
+        "ko": "냉동빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "blizzard",
+        "ko": "눈보라",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_beam",
+        "ko": "솔라빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunderbolt",
+        "ko": "10만볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_wave",
+        "ko": "전기자석파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder",
+        "ko": "번개",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "screech",
+        "ko": "싫은소리",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snore",
+        "ko": "코골기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charm",
+        "ko": "애교부리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "attract",
+        "ko": "헤롱헤롱",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "future_sight",
+        "ko": "미래예지",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "uproar",
+        "ko": "소란피기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trick",
+        "ko": "트릭",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "skill_swap",
+        "ko": "스킬스왑",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "icicle_spear",
+        "ko": "고드름침",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_defense",
+        "ko": "철벽",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "calm_mind",
+        "ko": "명상",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "payback",
+        "ko": "보복",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "power_swap",
+        "ko": "파워스왑",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "guard_swap",
+        "ko": "가드스왑",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "drain_punch",
+        "ko": "드레인펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_blast",
+        "ko": "기합구슬",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "energy_ball",
+        "ko": "에너지볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "nasty_plot",
+        "ko": "나쁜음모",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "avalanche",
+        "ko": "눈사태",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "zen_headbutt",
+        "ko": "사념의박치기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trick_room",
+        "ko": "트릭룸",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grass_knot",
+        "ko": "풀묶기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "wonder_room",
+        "ko": "원더룸",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psyshock",
+        "ko": "사이코쇼크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "magic_room",
+        "ko": "매직룸",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "foul_play",
+        "ko": "속임수",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "round",
+        "ko": "돌림노래",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stored_power",
+        "ko": "어시스트파워",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic_terrain",
+        "ko": "사이코필드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stomping_tantrum",
+        "ko": "분함의발구르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "confuse_ray",
+        "ko": "이상한빛",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "fake_out",
+        "ko": "속이기",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "tickle",
+        "ko": "간지르기",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "power_split",
+        "ko": "파워셰어",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "expanding_force",
+        "ko": "와이드포스",
+        "method": "tutor",
+        "level": 0
+      },
+      {
+        "en": "triple_axel",
+        "ko": "트리플악셀",
+        "method": "tutor",
         "level": 0
       }
     ]
@@ -23446,6 +24541,337 @@
     ]
   },
   {
+    "id": 317,
+    "ko": "꿀꺽몬",
+    "en": "swalot",
+    "moves": [
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "yawn",
+        "ko": "하품",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "gunk_shot",
+        "ko": "더스트슈트",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "amnesia",
+        "ko": "망각술",
+        "method": "level-up",
+        "level": 12
+      },
+      {
+        "en": "acid_spray",
+        "ko": "애시드봄",
+        "method": "level-up",
+        "level": 17
+      },
+      {
+        "en": "encore",
+        "ko": "앙코르",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "toxic",
+        "ko": "맹독",
+        "method": "level-up",
+        "level": 25
+      },
+      {
+        "en": "stockpile",
+        "ko": "비축하기",
+        "method": "level-up",
+        "level": 30
+      },
+      {
+        "en": "spit_up",
+        "ko": "토해내기",
+        "method": "level-up",
+        "level": 30
+      },
+      {
+        "en": "swallow",
+        "ko": "꿀꺽",
+        "method": "level-up",
+        "level": 30
+      },
+      {
+        "en": "sludge_bomb",
+        "ko": "오물폭탄",
+        "method": "level-up",
+        "level": 37
+      },
+      {
+        "en": "gastro_acid",
+        "ko": "위액",
+        "method": "level-up",
+        "level": 42
+      },
+      {
+        "en": "belch",
+        "ko": "트림",
+        "method": "level-up",
+        "level": 49
+      },
+      {
+        "en": "fire_punch",
+        "ko": "불꽃펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_punch",
+        "ko": "냉동펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_punch",
+        "ko": "번개펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_beam",
+        "ko": "냉동빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_beam",
+        "ko": "솔라빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_wave",
+        "ko": "전기자석파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "earthquake",
+        "ko": "지진",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "curse",
+        "ko": "저주",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_slap",
+        "ko": "진흙뿌리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_drain",
+        "ko": "기가드레인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "pain_split",
+        "ko": "아픔나누기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "knock_off",
+        "ko": "탁쳐서떨구기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bullet_seed",
+        "ko": "씨기관총",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "water_pulse",
+        "ko": "물의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "toxic_spikes",
+        "ko": "독압정",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "poison_jab",
+        "ko": "독찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "seed_bomb",
+        "ko": "씨폭탄",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "zen_headbutt",
+        "ko": "사념의박치기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "venoshock",
+        "ko": "베놈쇼크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sludge_wave",
+        "ko": "오물웨이브",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulldoze",
+        "ko": "땅고르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_press",
+        "ko": "바디프레스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
     "id": 319,
     "ko": "샤크니아",
     "en": "sharpedo",
@@ -27224,6 +28650,349 @@
       {
         "en": "steel_roller",
         "ko": "아이언롤러",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "ko": "보만다",
+    "en": "salamence",
+    "moves": [
+      {
+        "en": "fly",
+        "ko": "공중날기",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "bite",
+        "ko": "물기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "roost",
+        "ko": "날개쉬기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "dragon_tail",
+        "ko": "드래곤테일",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "dual_wingbeat",
+        "ko": "더블윙",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "scary_face",
+        "ko": "겁나는얼굴",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "crunch",
+        "ko": "깨물어부수기",
+        "method": "level-up",
+        "level": 25
+      },
+      {
+        "en": "dragon_claw",
+        "ko": "드래곤클로",
+        "method": "level-up",
+        "level": 33
+      },
+      {
+        "en": "zen_headbutt",
+        "ko": "사념의박치기",
+        "method": "level-up",
+        "level": 39
+      },
+      {
+        "en": "focus_energy",
+        "ko": "기충전",
+        "method": "level-up",
+        "level": 46
+      },
+      {
+        "en": "flamethrower",
+        "ko": "화염방사",
+        "method": "level-up",
+        "level": 55
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "level-up",
+        "level": 73
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "roar",
+        "ko": "울부짖기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hydro_pump",
+        "ko": "하이드로펌프",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_spin",
+        "ko": "회오리불꽃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "earthquake",
+        "ko": "지진",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_blast",
+        "ko": "불대문자",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rock_slide",
+        "ko": "스톤샤워",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_slap",
+        "ko": "진흙뿌리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "outrage",
+        "ko": "역린",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "heat_wave",
+        "ko": "열풍",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_voice",
+        "ko": "하이퍼보이스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rock_tomb",
+        "ko": "암석봉인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "aerial_ace",
+        "ko": "제비반환",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_defense",
+        "ko": "철벽",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dragon_dance",
+        "ko": "용의춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tailwind",
+        "ko": "순풍",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "air_slash",
+        "ko": "에어슬래시",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dragon_pulse",
+        "ko": "용의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_claw",
+        "ko": "섀도클로",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_fang",
+        "ko": "번개엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_fang",
+        "ko": "불꽃엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "draco_meteor",
+        "ko": "용성군",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_head",
+        "ko": "아이언헤드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stone_edge",
+        "ko": "스톤에지",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulldoze",
+        "ko": "땅고르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hurricane",
+        "ko": "폭풍",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic_fangs",
+        "ko": "사이코팽",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "breaking_swipe",
+        "ko": "와이드브레이커",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dragon_cheer",
+        "ko": "드래곤옐",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "temper_flare",
+        "ko": "열불내기",
         "method": "machine",
         "level": 0
       }
@@ -51977,6 +53746,313 @@
     ]
   },
   {
+    "id": 673,
+    "ko": "고고트",
+    "en": "gogoat",
+    "moves": [
+      {
+        "en": "aerial_ace",
+        "ko": "제비반환",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "growth",
+        "ko": "성장",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "earthquake",
+        "ko": "지진",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "leech_seed",
+        "ko": "씨뿌리기",
+        "method": "level-up",
+        "level": 12
+      },
+      {
+        "en": "worry_seed",
+        "ko": "고민씨",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "synthesis",
+        "ko": "광합성",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "bulldoze",
+        "ko": "땅고르기",
+        "method": "level-up",
+        "level": 26
+      },
+      {
+        "en": "seed_bomb",
+        "ko": "씨폭탄",
+        "method": "level-up",
+        "level": 30
+      },
+      {
+        "en": "bulk_up",
+        "ko": "벌크업",
+        "method": "level-up",
+        "level": 34
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "horn_leech",
+        "ko": "우드혼",
+        "method": "level-up",
+        "level": 47
+      },
+      {
+        "en": "leaf_blade",
+        "ko": "리프블레이드",
+        "method": "level-up",
+        "level": 55
+      },
+      {
+        "en": "milk_drink",
+        "ko": "우유마시기",
+        "method": "level-up",
+        "level": 58
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "roar",
+        "ko": "울부짖기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "surf",
+        "ko": "파도타기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_beam",
+        "ko": "솔라빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rock_slide",
+        "ko": "스톤샤워",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_slap",
+        "ko": "진흙뿌리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_drain",
+        "ko": "기가드레인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endeavor",
+        "ko": "죽기살기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bullet_seed",
+        "ko": "씨기관총",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "magical_leaf",
+        "ko": "매지컬리프",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "energy_ball",
+        "ko": "에너지볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "zen_headbutt",
+        "ko": "사념의박치기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "leaf_storm",
+        "ko": "리프스톰",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grass_knot",
+        "ko": "풀묶기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "wild_charge",
+        "ko": "와일드볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grassy_terrain",
+        "ko": "그래스필드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "play_rough",
+        "ko": "치근거리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "high_horsepower",
+        "ko": "10만마력",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "throat_chop",
+        "ko": "지옥찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stomping_tantrum",
+        "ko": "분함의발구르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grassy_glide",
+        "ko": "그래스슬라이더",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trailblaze",
+        "ko": "개척하기",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
     "id": 675,
     "ko": "부란다",
     "en": "pangoro",
@@ -64678,6 +66754,361 @@
     ]
   },
   {
+    "id": 768,
+    "ko": "갑주무사",
+    "en": "golisopod",
+    "moves": [
+      {
+        "en": "first_impression",
+        "ko": "만나자마자",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "spite",
+        "ko": "원한",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "struggle_bug",
+        "ko": "벌레의저항",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "level-up",
+        "level": 12
+      },
+      {
+        "en": "bug_bite",
+        "ko": "벌레먹기",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "iron_defense",
+        "ko": "철벽",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "sucker_punch",
+        "ko": "기습",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "razor_shell",
+        "ko": "셸블레이드",
+        "method": "level-up",
+        "level": 32
+      },
+      {
+        "en": "pin_missile",
+        "ko": "바늘미사일",
+        "method": "level-up",
+        "level": 36
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "liquidation",
+        "ko": "아쿠아브레이크",
+        "method": "level-up",
+        "level": 44
+      },
+      {
+        "en": "surf",
+        "ko": "파도타기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_beam",
+        "ko": "냉동빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "blizzard",
+        "ko": "눈보라",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "screech",
+        "ko": "싫은소리",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "waterfall",
+        "ko": "폭포오르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "leech_life",
+        "ko": "흡혈",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rock_slide",
+        "ko": "스톤샤워",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snore",
+        "ko": "코골기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sludge_bomb",
+        "ko": "오물폭탄",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "spikes",
+        "ko": "압정뿌리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "icy_wind",
+        "ko": "얼어붙은바람",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "attract",
+        "ko": "헤롱헤롱",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dive",
+        "ko": "다이빙",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rock_tomb",
+        "ko": "암석봉인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "muddy_water",
+        "ko": "탁류",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulk_up",
+        "ko": "벌크업",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "close_combat",
+        "ko": "인파이트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "payback",
+        "ko": "보복",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "assurance",
+        "ko": "승부굳히기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "poison_jab",
+        "ko": "독찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dark_pulse",
+        "ko": "악의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "x_scissor",
+        "ko": "시저크로스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bug_buzz",
+        "ko": "벌레의야단법석",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_blast",
+        "ko": "기합구슬",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_claw",
+        "ko": "섀도클로",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_head",
+        "ko": "아이언헤드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "venoshock",
+        "ko": "베놈쇼크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sludge_wave",
+        "ko": "오물웨이브",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "round",
+        "ko": "돌림노래",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scald",
+        "ko": "열탕",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "drill_run",
+        "ko": "드릴라이너",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snarl",
+        "ko": "바크아웃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "throat_chop",
+        "ko": "지옥찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "skitter_smack",
+        "ko": "엄습하는일격",
+        "method": "tutor",
+        "level": 0
+      }
+    ]
+  },
+  {
     "id": 778,
     "ko": "따라큐",
     "en": "mimikyu",
@@ -65917,6 +68348,1089 @@
     ]
   },
   {
+    "id": 812,
+    "ko": "고릴타",
+    "en": "rillaboom",
+    "moves": [
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "double_hit",
+        "ko": "더블어택",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "noble_roar",
+        "ko": "부르짖기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "grassy_terrain",
+        "ko": "그래스필드",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "screech",
+        "ko": "싫은소리",
+        "method": "level-up",
+        "level": 19
+      },
+      {
+        "en": "knock_off",
+        "ko": "탁쳐서떨구기",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "uproar",
+        "ko": "소란피기",
+        "method": "level-up",
+        "level": 38
+      },
+      {
+        "en": "wood_hammer",
+        "ko": "우드해머",
+        "method": "level-up",
+        "level": 46
+      },
+      {
+        "en": "endeavor",
+        "ko": "죽기살기",
+        "method": "level-up",
+        "level": 54
+      },
+      {
+        "en": "boomburst",
+        "ko": "폭음파",
+        "method": "level-up",
+        "level": 62
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "low_kick",
+        "ko": "안다리걸기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_beam",
+        "ko": "솔라빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "earthquake",
+        "ko": "지진",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scary_face",
+        "ko": "겁나는얼굴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_drain",
+        "ko": "기가드레인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_punch",
+        "ko": "힘껏펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_voice",
+        "ko": "하이퍼보이스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bullet_seed",
+        "ko": "씨기관총",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "frenzy_plant",
+        "ko": "하드플랜트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulk_up",
+        "ko": "벌크업",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "magical_leaf",
+        "ko": "매지컬리프",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "u_turn",
+        "ko": "유턴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "seed_bomb",
+        "ko": "씨폭탄",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "drain_punch",
+        "ko": "드레인펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_blast",
+        "ko": "기합구슬",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "energy_ball",
+        "ko": "에너지볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "earth_power",
+        "ko": "대지의힘",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "leaf_storm",
+        "ko": "리프스톰",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grass_knot",
+        "ko": "풀묶기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "low_sweep",
+        "ko": "로킥",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "acrobatics",
+        "ko": "애크러뱃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulldoze",
+        "ko": "땅고르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snarl",
+        "ko": "바크아웃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "high_horsepower",
+        "ko": "10만마력",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_blade",
+        "ko": "솔라블레이드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stomping_tantrum",
+        "ko": "분함의발구르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_press",
+        "ko": "바디프레스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grassy_glide",
+        "ko": "그래스슬라이더",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trailblaze",
+        "ko": "개척하기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "leech_seed",
+        "ko": "씨뿌리기",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "growth",
+        "ko": "성장",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "fake_out",
+        "ko": "속이기",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "hammer_arm",
+        "ko": "암해머",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "worry_seed",
+        "ko": "고민씨",
+        "method": "egg",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 815,
+    "ko": "에이스번",
+    "en": "cinderace",
+    "moves": [
+      {
+        "en": "quick_attack",
+        "ko": "전광석화",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "feint",
+        "ko": "페인트",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "flame_charge",
+        "ko": "니트로차지",
+        "method": "level-up",
+        "level": 19
+      },
+      {
+        "en": "agility",
+        "ko": "고속이동",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "counter",
+        "ko": "카운터",
+        "method": "level-up",
+        "level": 38
+      },
+      {
+        "en": "bounce",
+        "ko": "뛰어오르기",
+        "method": "level-up",
+        "level": 46
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "level-up",
+        "level": 54
+      },
+      {
+        "en": "fire_punch",
+        "ko": "불꽃펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "flamethrower",
+        "ko": "화염방사",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "low_kick",
+        "ko": "안다리걸기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_spin",
+        "ko": "회오리불꽃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_blast",
+        "ko": "불대문자",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "reversal",
+        "ko": "기사회생",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_slap",
+        "ko": "진흙뿌리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "baton_pass",
+        "ko": "배턴터치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "heat_wave",
+        "ko": "열풍",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "will_o_wisp",
+        "ko": "도깨비불",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "blast_burn",
+        "ko": "블라스트번",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "weather_ball",
+        "ko": "웨더볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "overheat",
+        "ko": "오버히트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulk_up",
+        "ko": "벌크업",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "u_turn",
+        "ko": "유턴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "flare_blitz",
+        "ko": "플레어드라이브",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_blast",
+        "ko": "기합구슬",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_fang",
+        "ko": "불꽃엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "zen_headbutt",
+        "ko": "사념의박치기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "gunk_shot",
+        "ko": "더스트슈트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_head",
+        "ko": "아이언헤드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "smack_down",
+        "ko": "떨어뜨리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electro_ball",
+        "ko": "일렉트릭볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "low_sweep",
+        "ko": "로킥",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "acrobatics",
+        "ko": "애크러뱃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snarl",
+        "ko": "바크아웃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "burning_jealousy",
+        "ko": "질투의불꽃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "coaching",
+        "ko": "코칭",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scorching_sands",
+        "ko": "열사의대지",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trailblaze",
+        "ko": "개척하기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "temper_flare",
+        "ko": "열불내기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "high_jump_kick",
+        "ko": "무릎차기",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "super_fang",
+        "ko": "분노의앞니",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "sucker_punch",
+        "ko": "기습",
+        "method": "egg",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "ko": "인텔리레온",
+    "en": "inteleon",
+    "moves": [
+      {
+        "en": "bind",
+        "ko": "조이기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "acrobatics",
+        "ko": "애크러뱃",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "water_pulse",
+        "ko": "물의파동",
+        "method": "level-up",
+        "level": 12
+      },
+      {
+        "en": "tearful_look",
+        "ko": "눈물그렁그렁",
+        "method": "level-up",
+        "level": 19
+      },
+      {
+        "en": "sucker_punch",
+        "ko": "기습",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "u_turn",
+        "ko": "유턴",
+        "method": "level-up",
+        "level": 30
+      },
+      {
+        "en": "liquidation",
+        "ko": "아쿠아브레이크",
+        "method": "level-up",
+        "level": 38
+      },
+      {
+        "en": "soak",
+        "ko": "물붓기",
+        "method": "level-up",
+        "level": 46
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "level-up",
+        "level": 54
+      },
+      {
+        "en": "hydro_pump",
+        "ko": "하이드로펌프",
+        "method": "level-up",
+        "level": 62
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "surf",
+        "ko": "파도타기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_beam",
+        "ko": "냉동빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "blizzard",
+        "ko": "눈보라",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "agility",
+        "ko": "고속이동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "light_screen",
+        "ko": "빛의장막",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "reflect",
+        "ko": "리플렉터",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "waterfall",
+        "ko": "폭포오르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "icy_wind",
+        "ko": "얼어붙은바람",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "baton_pass",
+        "ko": "배턴터치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psych_up",
+        "ko": "자기암시",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "whirlpool",
+        "ko": "바다회오리",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hydro_cannon",
+        "ko": "하이드로캐논",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "weather_ball",
+        "ko": "웨더볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "air_cutter",
+        "ko": "에어커터",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "muddy_water",
+        "ko": "탁류",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "icicle_spear",
+        "ko": "고드름침",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dark_pulse",
+        "ko": "악의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "air_slash",
+        "ko": "에어슬래시",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "vacuum_wave",
+        "ko": "진공파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "smack_down",
+        "ko": "떨어뜨리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scald",
+        "ko": "열탕",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "breaking_swipe",
+        "ko": "와이드브레이커",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "skitter_smack",
+        "ko": "엄습하는일격",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "flip_turn",
+        "ko": "퀵턴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snowscape",
+        "ko": "설경",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "chilling_water",
+        "ko": "찬물끼얹기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_team",
+        "ko": "그림자분신",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "haze",
+        "ko": "흑안개",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "aqua_ring",
+        "ko": "아쿠아링",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "ice_shard",
+        "ko": "얼음뭉치",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "aqua_jet",
+        "ko": "아쿠아제트",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "fell_stinger",
+        "ko": "마지막일침",
+        "method": "egg",
+        "level": 0
+      }
+    ]
+  },
+  {
     "id": 823,
     "ko": "아머까오",
     "en": "corviknight",
@@ -66249,6 +69763,283 @@
         "en": "focus_energy",
         "ko": "기충전",
         "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "ko": "폭슬라이",
+    "en": "thievul",
+    "moves": [
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "quick_attack",
+        "ko": "전광석화",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "beat_up",
+        "ko": "집단구타",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "hone_claws",
+        "ko": "손톱갈기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "snarl",
+        "ko": "바크아웃",
+        "method": "level-up",
+        "level": 12
+      },
+      {
+        "en": "assurance",
+        "ko": "승부굳히기",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "nasty_plot",
+        "ko": "나쁜음모",
+        "method": "level-up",
+        "level": 22
+      },
+      {
+        "en": "sucker_punch",
+        "ko": "기습",
+        "method": "level-up",
+        "level": 28
+      },
+      {
+        "en": "night_slash",
+        "ko": "깜짝베기",
+        "method": "level-up",
+        "level": 34
+      },
+      {
+        "en": "tail_slap",
+        "ko": "스위프뺨치기",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "foul_play",
+        "ko": "속임수",
+        "method": "level-up",
+        "level": 46
+      },
+      {
+        "en": "parting_shot",
+        "ko": "막말내뱉기",
+        "method": "level-up",
+        "level": 52
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic",
+        "ko": "사이코키네시스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "agility",
+        "ko": "고속이동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "screech",
+        "ko": "싫은소리",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snore",
+        "ko": "코골기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "attract",
+        "ko": "헤롱헤롱",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "baton_pass",
+        "ko": "배턴터치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "crunch",
+        "ko": "깨물어부수기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fake_tears",
+        "ko": "거짓울음",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "u_turn",
+        "ko": "유턴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dark_pulse",
+        "ko": "악의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_claw",
+        "ko": "섀도클로",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_fang",
+        "ko": "번개엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_fang",
+        "ko": "얼음엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_fang",
+        "ko": "불꽃엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grass_knot",
+        "ko": "풀묶기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "round",
+        "ko": "돌림노래",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "acrobatics",
+        "ko": "애크러뱃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "play_rough",
+        "ko": "치근거리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "burning_jealousy",
+        "ko": "질투의불꽃",
+        "method": "tutor",
+        "level": 0
+      },
+      {
+        "en": "lash_out",
+        "ko": "분풀이",
+        "method": "tutor",
         "level": 0
       }
     ]
@@ -67122,6 +70913,674 @@
         "en": "screech",
         "ko": "싫은소리",
         "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 849,
+    "ko": "스트린더",
+    "en": "toxtricity",
+    "moves": [
+      {
+        "en": "belch",
+        "ko": "트림",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "tearful_look",
+        "ko": "눈물그렁그렁",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "nuzzle",
+        "ko": "볼부비부비",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "flail",
+        "ko": "바둥바둥",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "acid_spray",
+        "ko": "애시드봄",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "noble_roar",
+        "ko": "부르짖기",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "charge",
+        "ko": "충전",
+        "method": "level-up",
+        "level": 4
+      },
+      {
+        "en": "scary_face",
+        "ko": "겁나는얼굴",
+        "method": "level-up",
+        "level": 12
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "screech",
+        "ko": "싫은소리",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "swagger",
+        "ko": "뽐내기",
+        "method": "level-up",
+        "level": 28
+      },
+      {
+        "en": "toxic",
+        "ko": "맹독",
+        "method": "level-up",
+        "level": 32
+      },
+      {
+        "en": "discharge",
+        "ko": "방전",
+        "method": "level-up",
+        "level": 36
+      },
+      {
+        "en": "poison_jab",
+        "ko": "독찌르기",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "boomburst",
+        "ko": "폭음파",
+        "method": "level-up",
+        "level": 48
+      },
+      {
+        "en": "charm",
+        "ko": "애교부리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scary_face",
+        "ko": "겁나는얼굴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_fang",
+        "ko": "번개엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "acid_spray",
+        "ko": "애시드봄",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trailblaze",
+        "ko": "개척하기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charge_beam",
+        "ko": "차지빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hex",
+        "ko": "병상첨병",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snarl",
+        "ko": "바크아웃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stored_power",
+        "ko": "어시스트파워",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "venoshock",
+        "ko": "베놈쇼크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "volt_switch",
+        "ko": "볼트체인지",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_punch",
+        "ko": "불꽃펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_punch",
+        "ko": "번개펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electro_ball",
+        "ko": "일렉트릭볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "drain_punch",
+        "ko": "드레인펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_wave",
+        "ko": "전기자석파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "poison_jab",
+        "ko": "독찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "toxic_spikes",
+        "ko": "독압정",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "eerie_impulse",
+        "ko": "괴전파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "gunk_shot",
+        "ko": "더스트슈트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_voice",
+        "ko": "하이퍼보이스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "encore",
+        "ko": "앙코르",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunderbolt",
+        "ko": "10만볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electric_terrain",
+        "ko": "일렉트릭필드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "wild_charge",
+        "ko": "와일드볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sludge_bomb",
+        "ko": "오물폭탄",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder",
+        "ko": "번개",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charge",
+        "ko": "충전",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "toxic",
+        "ko": "맹독",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "uproar",
+        "ko": "소란피기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endeavor",
+        "ko": "죽기살기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electroweb",
+        "ko": "일렉트릭네트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sludge_wave",
+        "ko": "오물웨이브",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "throat_chop",
+        "ko": "지옥찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "metal_sound",
+        "ko": "금속음",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic_noise",
+        "ko": "사이코노이즈",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 853,
+    "ko": "케오퍼스",
+    "en": "grapploct",
+    "moves": [
+      {
+        "en": "bind",
+        "ko": "조이기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "feint",
+        "ko": "페인트",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "detect",
+        "ko": "판별",
+        "method": "level-up",
+        "level": 15
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "bulk_up",
+        "ko": "벌크업",
+        "method": "level-up",
+        "level": 25
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "level-up",
+        "level": 35
+      },
+      {
+        "en": "reversal",
+        "ko": "기사회생",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "superpower",
+        "ko": "엄청난힘",
+        "method": "level-up",
+        "level": 45
+      },
+      {
+        "en": "topsy_turvy",
+        "ko": "뒤집어엎기",
+        "method": "level-up",
+        "level": 50
+      },
+      {
+        "en": "ice_punch",
+        "ko": "냉동펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hydro_pump",
+        "ko": "하이드로펌프",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "surf",
+        "ko": "파도타기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "waterfall",
+        "ko": "폭포오르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snore",
+        "ko": "코골기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scary_face",
+        "ko": "겁나는얼굴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "attract",
+        "ko": "헤롱헤롱",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "whirlpool",
+        "ko": "바다회오리",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dive",
+        "ko": "다이빙",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "muddy_water",
+        "ko": "탁류",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "close_combat",
+        "ko": "인파이트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "payback",
+        "ko": "보복",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "drain_punch",
+        "ko": "드레인펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_blast",
+        "ko": "기합구슬",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "round",
+        "ko": "돌림노래",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "work_up",
+        "ko": "분발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brutal_swing",
+        "ko": "세차게휘두르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stomping_tantrum",
+        "ko": "분함의발구르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "liquidation",
+        "ko": "아쿠아브레이크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "skitter_smack",
+        "ko": "엄습하는일격",
+        "method": "tutor",
+        "level": 0
+      },
+      {
+        "en": "coaching",
+        "ko": "코칭",
+        "method": "tutor",
         "level": 0
       }
     ]
@@ -68156,6 +72615,620 @@
       {
         "en": "focus_punch",
         "ko": "힘껏펀치",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 863,
+    "ko": "나이킹",
+    "en": "perrserker",
+    "moves": [
+      {
+        "en": "iron_head",
+        "ko": "아이언헤드",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "fake_out",
+        "ko": "속이기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "iron_defense",
+        "ko": "철벽",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "metal_burst",
+        "ko": "메탈버스트",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "hone_claws",
+        "ko": "손톱갈기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "swagger",
+        "ko": "뽐내기",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "screech",
+        "ko": "싫은소리",
+        "method": "level-up",
+        "level": 36
+      },
+      {
+        "en": "metal_sound",
+        "ko": "금속음",
+        "method": "level-up",
+        "level": 48
+      },
+      {
+        "en": "thrash",
+        "ko": "난동부리기",
+        "method": "level-up",
+        "level": 54
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunderbolt",
+        "ko": "10만볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder",
+        "ko": "번개",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "amnesia",
+        "ko": "망각술",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "curse",
+        "ko": "저주",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "spite",
+        "ko": "원한",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charm",
+        "ko": "애교부리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "baton_pass",
+        "ko": "배턴터치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "crunch",
+        "ko": "깨물어부수기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "knock_off",
+        "ko": "탁쳐서떨구기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endeavor",
+        "ko": "죽기살기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_voice",
+        "ko": "하이퍼보이스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fake_tears",
+        "ko": "거짓울음",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "gyro_ball",
+        "ko": "자이로볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "u_turn",
+        "ko": "유턴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "close_combat",
+        "ko": "인파이트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dark_pulse",
+        "ko": "악의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "seed_bomb",
+        "ko": "씨폭탄",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "x_scissor",
+        "ko": "시저크로스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "nasty_plot",
+        "ko": "나쁜음모",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_claw",
+        "ko": "섀도클로",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "gunk_shot",
+        "ko": "더스트슈트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stealth_rock",
+        "ko": "스텔스록",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "heavy_slam",
+        "ko": "헤비봄버",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "foul_play",
+        "ko": "속임수",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "play_rough",
+        "ko": "치근거리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "throat_chop",
+        "ko": "지옥찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "steel_beam",
+        "ko": "철제광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "lash_out",
+        "ko": "분풀이",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trailblaze",
+        "ko": "개척하기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "chilling_water",
+        "ko": "찬물끼얹기",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 865,
+    "ko": "창파나이트",
+    "en": "sirfetchd",
+    "moves": [
+      {
+        "en": "iron_defense",
+        "ko": "철벽",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "detect",
+        "ko": "판별",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "steel_wing",
+        "ko": "강철날개",
+        "method": "level-up",
+        "level": 12
+      },
+      {
+        "en": "aerial_ace",
+        "ko": "제비반환",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "knock_off",
+        "ko": "탁쳐서떨구기",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "quick_attack",
+        "ko": "전광석화",
+        "method": "level-up",
+        "level": 22
+      },
+      {
+        "en": "brutal_swing",
+        "ko": "세차게휘두르기",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "focus_energy",
+        "ko": "기충전",
+        "method": "level-up",
+        "level": 27
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "level-up",
+        "level": 34
+      },
+      {
+        "en": "feather_dance",
+        "ko": "깃털댄스",
+        "method": "level-up",
+        "level": 36
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "leaf_blade",
+        "ko": "리프블레이드",
+        "method": "level-up",
+        "level": 42
+      },
+      {
+        "en": "agility",
+        "ko": "고속이동",
+        "method": "level-up",
+        "level": 47
+      },
+      {
+        "en": "brave_bird",
+        "ko": "브레이브버드",
+        "method": "level-up",
+        "level": 55
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "aerial_ace",
+        "ko": "제비반환",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "night_slash",
+        "ko": "깜짝베기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fly",
+        "ko": "공중날기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "knock_off",
+        "ko": "탁쳐서떨구기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "agility",
+        "ko": "고속이동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "poison_jab",
+        "ko": "독찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_defense",
+        "ko": "철벽",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "u_turn",
+        "ko": "유턴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_tail",
+        "ko": "아이언테일",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "curse",
+        "ko": "저주",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "work_up",
+        "ko": "분발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "close_combat",
+        "ko": "인파이트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dual_wingbeat",
+        "ko": "더블윙",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "first_impression",
+        "ko": "만나자마자",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "vacuum_wave",
+        "ko": "진공파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_blade",
+        "ko": "솔라블레이드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sky_attack",
+        "ko": "불새",
         "method": "machine",
         "level": 0
       }
@@ -69552,6 +74625,530 @@
       {
         "en": "hyper_beam",
         "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 871,
+    "ko": "찌르성게",
+    "en": "pincurchin",
+    "moves": [
+      {
+        "en": "charge",
+        "ko": "충전",
+        "method": "level-up",
+        "level": 10
+      },
+      {
+        "en": "recover",
+        "ko": "HP회복",
+        "method": "level-up",
+        "level": 30
+      },
+      {
+        "en": "curse",
+        "ko": "저주",
+        "method": "level-up",
+        "level": 35
+      },
+      {
+        "en": "electric_terrain",
+        "ko": "일렉트릭필드",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "poison_jab",
+        "ko": "독찌르기",
+        "method": "level-up",
+        "level": 45
+      },
+      {
+        "en": "acupressure",
+        "ko": "경혈찌르기",
+        "method": "level-up",
+        "level": 55
+      },
+      {
+        "en": "discharge",
+        "ko": "방전",
+        "method": "level-up",
+        "level": 60
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hydro_pump",
+        "ko": "하이드로펌프",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "surf",
+        "ko": "파도타기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunderbolt",
+        "ko": "10만볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_wave",
+        "ko": "전기자석파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder",
+        "ko": "번개",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "reversal",
+        "ko": "기사회생",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "spikes",
+        "ko": "압정뿌리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "pain_split",
+        "ko": "아픔나누기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "muddy_water",
+        "ko": "탁류",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "toxic_spikes",
+        "ko": "독압정",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charge_beam",
+        "ko": "차지빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "venoshock",
+        "ko": "베놈쇼크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electro_ball",
+        "ko": "일렉트릭볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scald",
+        "ko": "열탕",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hex",
+        "ko": "병상첨병",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electroweb",
+        "ko": "일렉트릭네트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "wild_charge",
+        "ko": "와일드볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "throat_chop",
+        "ko": "지옥찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "liquidation",
+        "ko": "아쿠아브레이크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "chilling_water",
+        "ko": "찬물끼얹기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "supercell_slam",
+        "ko": "썬더다이브",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "memento",
+        "ko": "추억의선물",
+        "method": "egg",
+        "level": 0
+      },
+      {
+        "en": "sucker_punch",
+        "ko": "기습",
+        "method": "egg",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 876,
+    "ko": "에써르",
+    "en": "indeedee",
+    "moves": [
+      {
+        "en": "stored_power",
+        "ko": "어시스트파워",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "encore",
+        "ko": "앙코르",
+        "method": "level-up",
+        "level": 5
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "level-up",
+        "level": 20
+      },
+      {
+        "en": "after_you",
+        "ko": "당신먼저",
+        "method": "level-up",
+        "level": 25
+      },
+      {
+        "en": "healing_wish",
+        "ko": "치유소원",
+        "method": "level-up",
+        "level": 30
+      },
+      {
+        "en": "psychic",
+        "ko": "사이코키네시스",
+        "method": "level-up",
+        "level": 35
+      },
+      {
+        "en": "calm_mind",
+        "ko": "명상",
+        "method": "level-up",
+        "level": 40
+      },
+      {
+        "en": "power_split",
+        "ko": "파워셰어",
+        "method": "level-up",
+        "level": 45
+      },
+      {
+        "en": "psychic_terrain",
+        "ko": "사이코필드",
+        "method": "level-up",
+        "level": 50
+      },
+      {
+        "en": "last_resort",
+        "ko": "비장의무기",
+        "method": "level-up",
+        "level": 55
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "magical_leaf",
+        "ko": "매지컬리프",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "draining_kiss",
+        "ko": "드레인키스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stored_power",
+        "ko": "어시스트파워",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psyshock",
+        "ko": "사이코쇼크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "zen_headbutt",
+        "ko": "사념의박치기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "drain_punch",
+        "ko": "드레인펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dazzling_gleam",
+        "ko": "매지컬샤인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "imprison",
+        "ko": "봉인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "skill_swap",
+        "ko": "스킬스왑",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trick",
+        "ko": "트릭",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_voice",
+        "ko": "하이퍼보이스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "energy_ball",
+        "ko": "에너지볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic",
+        "ko": "사이코키네시스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "encore",
+        "ko": "앙코르",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "play_rough",
+        "ko": "치근거리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "calm_mind",
+        "ko": "명상",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic_terrain",
+        "ko": "사이코필드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trick_room",
+        "ko": "트릭룸",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "gravity",
+        "ko": "중력",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psych_up",
+        "ko": "자기암시",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "expanding_force",
+        "ko": "와이드포스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic_noise",
+        "ko": "사이코노이즈",
         "method": "machine",
         "level": 0
       }
@@ -73318,6 +78915,385 @@
     ]
   },
   {
+    "id": 923,
+    "ko": "빠르모트",
+    "en": "pawmot",
+    "moves": [
+      {
+        "en": "revival_blessing",
+        "ko": "회생의기도",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "wild_charge",
+        "ko": "와일드볼트",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "quick_attack",
+        "ko": "전광석화",
+        "method": "level-up",
+        "level": 6
+      },
+      {
+        "en": "charge",
+        "ko": "충전",
+        "method": "level-up",
+        "level": 8
+      },
+      {
+        "en": "nuzzle",
+        "ko": "볼부비부비",
+        "method": "level-up",
+        "level": 12
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "level-up",
+        "level": 15
+      },
+      {
+        "en": "bite",
+        "ko": "물기",
+        "method": "level-up",
+        "level": 19
+      },
+      {
+        "en": "thunder_wave",
+        "ko": "전기자석파",
+        "method": "level-up",
+        "level": 29
+      },
+      {
+        "en": "entrainment",
+        "ko": "동료만들기",
+        "method": "level-up",
+        "level": 39
+      },
+      {
+        "en": "close_combat",
+        "ko": "인파이트",
+        "method": "level-up",
+        "level": 44
+      },
+      {
+        "en": "discharge",
+        "ko": "방전",
+        "method": "level-up",
+        "level": 49
+      },
+      {
+        "en": "agility",
+        "ko": "고속이동",
+        "method": "level-up",
+        "level": 54
+      },
+      {
+        "en": "double_shock",
+        "ko": "전광쌍격",
+        "method": "level-up",
+        "level": 60
+      },
+      {
+        "en": "fire_punch",
+        "ko": "불꽃펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_punch",
+        "ko": "냉동펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_punch",
+        "ko": "번개펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "low_kick",
+        "ko": "안다리걸기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunderbolt",
+        "ko": "10만볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder",
+        "ko": "번개",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "super_fang",
+        "ko": "분노의앞니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charm",
+        "ko": "애교부리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "baton_pass",
+        "ko": "배턴터치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "encore",
+        "ko": "앙코르",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "crunch",
+        "ko": "깨물어부수기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_punch",
+        "ko": "힘껏펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "knock_off",
+        "ko": "탁쳐서떨구기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rock_tomb",
+        "ko": "암석봉인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulk_up",
+        "ko": "벌크업",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "seed_bomb",
+        "ko": "씨폭탄",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_blast",
+        "ko": "기합구슬",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_fang",
+        "ko": "번개엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grass_knot",
+        "ko": "풀묶기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charge_beam",
+        "ko": "차지빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electro_ball",
+        "ko": "일렉트릭볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "low_sweep",
+        "ko": "로킥",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "volt_switch",
+        "ko": "볼트체인지",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electroweb",
+        "ko": "일렉트릭네트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "play_rough",
+        "ko": "치근거리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "eerie_impulse",
+        "ko": "괴전파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electric_terrain",
+        "ko": "일렉트릭필드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "throat_chop",
+        "ko": "지옥찌르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_press",
+        "ko": "바디프레스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "coaching",
+        "ko": "코칭",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "supercell_slam",
+        "ko": "썬더다이브",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "upper_hand",
+        "ko": "기선제압",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
     "id": 925,
     "ko": "파밀리쥐",
     "en": "maushold",
@@ -73677,6 +79653,283 @@
         "level": 0
       }
     ]
+  },
+  {
+    "id": 930,
+    "ko": "올리르바",
+    "en": "arboliva",
+    "moves": [
+      {
+        "en": "safeguard",
+        "ko": "신비의부적",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "sweet_scent",
+        "ko": "달콤한향기",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "mirror_coat",
+        "ko": "미러코트",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "growth",
+        "ko": "성장",
+        "method": "level-up",
+        "level": 7
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "level-up",
+        "level": 13
+      },
+      {
+        "en": "flail",
+        "ko": "바둥바둥",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "grassy_terrain",
+        "ko": "그래스필드",
+        "method": "level-up",
+        "level": 23
+      },
+      {
+        "en": "seed_bomb",
+        "ko": "씨폭탄",
+        "method": "level-up",
+        "level": 29
+      },
+      {
+        "en": "energy_ball",
+        "ko": "에너지볼",
+        "method": "level-up",
+        "level": 34
+      },
+      {
+        "en": "leech_seed",
+        "ko": "씨뿌리기",
+        "method": "level-up",
+        "level": 39
+      },
+      {
+        "en": "terrain_pulse",
+        "ko": "대지의파동",
+        "method": "level-up",
+        "level": 46
+      },
+      {
+        "en": "petal_blizzard",
+        "ko": "꽃보라",
+        "method": "level-up",
+        "level": 52
+      },
+      {
+        "en": "petal_dance",
+        "ko": "꽃잎댄스",
+        "method": "level-up",
+        "level": 58
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_beam",
+        "ko": "솔라빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "light_screen",
+        "ko": "빛의장막",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "reflect",
+        "ko": "리플렉터",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "swift",
+        "ko": "스피드스타",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_drain",
+        "ko": "기가드레인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charm",
+        "ko": "애교부리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "encore",
+        "ko": "앙코르",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psych_up",
+        "ko": "자기암시",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_voice",
+        "ko": "하이퍼보이스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "weather_ball",
+        "ko": "웨더볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bullet_seed",
+        "ko": "씨기관총",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "magical_leaf",
+        "ko": "매지컬리프",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "earth_power",
+        "ko": "대지의힘",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "leaf_storm",
+        "ko": "리프스톰",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "grass_knot",
+        "ko": "풀묶기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dazzling_gleam",
+        "ko": "매지컬샤인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "solar_blade",
+        "ko": "솔라블레이드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "pollen_puff",
+        "ko": "꽃가루경단",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trailblaze",
+        "ko": "개척하기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "alluring_voice",
+        "ko": "매혹의보이스",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 931,
+    "ko": "시비꼬",
+    "en": "squawkabilly",
+    "moves": []
   },
   {
     "id": 934,
@@ -74950,6 +81203,277 @@
         "en": "soak",
         "ko": "물붓기",
         "method": "egg",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 943,
+    "ko": "마피티프",
+    "en": "mabosstiff",
+    "moves": [
+      {
+        "en": "comeuppance",
+        "ko": "앙갚음",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "scary_face",
+        "ko": "겁나는얼굴",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "snarl",
+        "ko": "바크아웃",
+        "method": "level-up",
+        "level": 7
+      },
+      {
+        "en": "hone_claws",
+        "ko": "손톱갈기",
+        "method": "level-up",
+        "level": 10
+      },
+      {
+        "en": "bite",
+        "ko": "물기",
+        "method": "level-up",
+        "level": 14
+      },
+      {
+        "en": "roar",
+        "ko": "울부짖기",
+        "method": "level-up",
+        "level": 18
+      },
+      {
+        "en": "payback",
+        "ko": "보복",
+        "method": "level-up",
+        "level": 26
+      },
+      {
+        "en": "crunch",
+        "ko": "깨물어부수기",
+        "method": "level-up",
+        "level": 34
+      },
+      {
+        "en": "swagger",
+        "ko": "뽐내기",
+        "method": "level-up",
+        "level": 39
+      },
+      {
+        "en": "reversal",
+        "ko": "기사회생",
+        "method": "level-up",
+        "level": 43
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "level-up",
+        "level": 55
+      },
+      {
+        "en": "outrage",
+        "ko": "역린",
+        "method": "level-up",
+        "level": 60
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "curse",
+        "ko": "저주",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "spite",
+        "ko": "원한",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charm",
+        "ko": "애교부리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "pain_split",
+        "ko": "아픔나누기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "taunt",
+        "ko": "도발",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endeavor",
+        "ko": "죽기살기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_voice",
+        "ko": "하이퍼보이스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fake_tears",
+        "ko": "거짓울음",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dark_pulse",
+        "ko": "악의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_fang",
+        "ko": "번개엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_fang",
+        "ko": "얼음엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_fang",
+        "ko": "불꽃엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "wild_charge",
+        "ko": "와일드볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "play_rough",
+        "ko": "치근거리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic_fangs",
+        "ko": "사이코팽",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "lash_out",
+        "ko": "분풀이",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trailblaze",
+        "ko": "개척하기",
+        "method": "machine",
         "level": 0
       }
     ]
@@ -76827,6 +83351,277 @@
     ]
   },
   {
+    "id": 972,
+    "ko": "묘두기",
+    "en": "houndstone",
+    "moves": [
+      {
+        "en": "last_respects",
+        "ko": "성묘",
+        "method": "level-up",
+        "level": 0
+      },
+      {
+        "en": "bite",
+        "ko": "물기",
+        "method": "level-up",
+        "level": 6
+      },
+      {
+        "en": "roar",
+        "ko": "울부짖기",
+        "method": "level-up",
+        "level": 9
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "level-up",
+        "level": 16
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "crunch",
+        "ko": "깨물어부수기",
+        "method": "level-up",
+        "level": 28
+      },
+      {
+        "en": "play_rough",
+        "ko": "치근거리기",
+        "method": "level-up",
+        "level": 36
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "level-up",
+        "level": 41
+      },
+      {
+        "en": "phantom_force",
+        "ko": "고스트다이브",
+        "method": "level-up",
+        "level": 46
+      },
+      {
+        "en": "charm",
+        "ko": "애교부리기",
+        "method": "level-up",
+        "level": 51
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "level-up",
+        "level": 58
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "night_shade",
+        "ko": "나이트헤드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "confuse_ray",
+        "ko": "이상한빛",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scary_face",
+        "ko": "겁나는얼굴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_slap",
+        "ko": "진흙뿌리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sandstorm",
+        "ko": "모래바람",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "pain_split",
+        "ko": "아픔나누기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sunny_day",
+        "ko": "쾌청",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "uproar",
+        "ko": "소란피기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "will_o_wisp",
+        "ko": "도깨비불",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trick",
+        "ko": "트릭",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endeavor",
+        "ko": "죽기살기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "mud_shot",
+        "ko": "머드샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_fang",
+        "ko": "번개엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "ice_fang",
+        "ko": "얼음엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fire_fang",
+        "ko": "불꽃엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hex",
+        "ko": "병상첨병",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulldoze",
+        "ko": "땅고르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "snarl",
+        "ko": "바크아웃",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic_fangs",
+        "ko": "사이코팽",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stomping_tantrum",
+        "ko": "분함의발구르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_press",
+        "ko": "바디프레스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "poltergeist",
+        "ko": "폴터가이스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
     "id": 979,
     "ko": "저승갓숭",
     "en": "annihilape",
@@ -78037,6 +84832,548 @@
         "en": "sucker_punch",
         "ko": "기습",
         "method": "egg",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 998,
+    "ko": "드닐레이브",
+    "en": "baxcalibur",
+    "moves": [
+      {
+        "en": "ice_shard",
+        "ko": "얼음뭉치",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "dragon_tail",
+        "ko": "드래곤테일",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "breaking_swipe",
+        "ko": "와이드브레이커",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "snowscape",
+        "ko": "설경",
+        "method": "level-up",
+        "level": 1
+      },
+      {
+        "en": "icy_wind",
+        "ko": "얼어붙은바람",
+        "method": "level-up",
+        "level": 6
+      },
+      {
+        "en": "focus_energy",
+        "ko": "기충전",
+        "method": "level-up",
+        "level": 18
+      },
+      {
+        "en": "bite",
+        "ko": "물기",
+        "method": "level-up",
+        "level": 24
+      },
+      {
+        "en": "ice_fang",
+        "ko": "얼음엄니",
+        "method": "level-up",
+        "level": 29
+      },
+      {
+        "en": "dragon_claw",
+        "ko": "드래곤클로",
+        "method": "level-up",
+        "level": 35
+      },
+      {
+        "en": "ice_beam",
+        "ko": "냉동빔",
+        "method": "level-up",
+        "level": 48
+      },
+      {
+        "en": "crunch",
+        "ko": "깨물어부수기",
+        "method": "level-up",
+        "level": 55
+      },
+      {
+        "en": "icicle_crash",
+        "ko": "고드름떨구기",
+        "method": "level-up",
+        "level": 62
+      },
+      {
+        "en": "swords_dance",
+        "ko": "칼춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_slam",
+        "ko": "누르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "double_edge",
+        "ko": "이판사판태클",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "blizzard",
+        "ko": "눈보라",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "earthquake",
+        "ko": "지진",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dig",
+        "ko": "구멍파기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scary_face",
+        "ko": "겁나는얼굴",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "outrage",
+        "ko": "역린",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rain_dance",
+        "ko": "비바라기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "facade",
+        "ko": "객기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "helping_hand",
+        "ko": "도우미",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "brick_break",
+        "ko": "깨트리기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "aerial_ace",
+        "ko": "제비반환",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "icicle_spear",
+        "ko": "고드름침",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dragon_dance",
+        "ko": "용의춤",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dragon_pulse",
+        "ko": "용의파동",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "avalanche",
+        "ko": "눈사태",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_fang",
+        "ko": "번개엄니",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "zen_headbutt",
+        "ko": "사념의박치기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "draco_meteor",
+        "ko": "용성군",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_head",
+        "ko": "아이언헤드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "bulldoze",
+        "ko": "땅고르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "high_horsepower",
+        "ko": "10만마력",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "stomping_tantrum",
+        "ko": "분함의발구르기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "body_press",
+        "ko": "바디프레스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "scale_shot",
+        "ko": "스케일샷",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dragon_cheer",
+        "ko": "드래곤옐",
+        "method": "machine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": 1000,
+    "ko": "타부자고",
+    "en": "gholdengo",
+    "moves": [
+      {
+        "en": "night_shade",
+        "ko": "나이트헤드",
+        "method": "level-up",
+        "level": 7
+      },
+      {
+        "en": "confuse_ray",
+        "ko": "이상한빛",
+        "method": "level-up",
+        "level": 14
+      },
+      {
+        "en": "substitute",
+        "ko": "대타출동",
+        "method": "level-up",
+        "level": 21
+      },
+      {
+        "en": "metal_sound",
+        "ko": "금속음",
+        "method": "level-up",
+        "level": 28
+      },
+      {
+        "en": "shadow_ball",
+        "ko": "섀도볼",
+        "method": "level-up",
+        "level": 35
+      },
+      {
+        "en": "recover",
+        "ko": "HP회복",
+        "method": "level-up",
+        "level": 42
+      },
+      {
+        "en": "power_gem",
+        "ko": "파워젬",
+        "method": "level-up",
+        "level": 49
+      },
+      {
+        "en": "nasty_plot",
+        "ko": "나쁜음모",
+        "method": "level-up",
+        "level": 63
+      },
+      {
+        "en": "memento",
+        "ko": "추억의선물",
+        "method": "level-up",
+        "level": 70
+      },
+      {
+        "en": "thunder_punch",
+        "ko": "번개펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hyper_beam",
+        "ko": "파괴광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "low_kick",
+        "ko": "안다리걸기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunderbolt",
+        "ko": "10만볼트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder_wave",
+        "ko": "전기자석파",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thunder",
+        "ko": "번개",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psychic",
+        "ko": "사이코키네시스",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "light_screen",
+        "ko": "빛의장막",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "reflect",
+        "ko": "리플렉터",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "rest",
+        "ko": "잠자기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "thief",
+        "ko": "도둑질",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "protect",
+        "ko": "방어",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sandstorm",
+        "ko": "모래바람",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "endure",
+        "ko": "버티기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "sleep_talk",
+        "ko": "잠꼬대",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_punch",
+        "ko": "힘껏펀치",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "trick",
+        "ko": "트릭",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "fling",
+        "ko": "내던지기",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "focus_blast",
+        "ko": "기합구슬",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "giga_impact",
+        "ko": "기가임팩트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "flash_cannon",
+        "ko": "러스터캐논",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "iron_head",
+        "ko": "아이언헤드",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "charge_beam",
+        "ko": "차지빔",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "psyshock",
+        "ko": "사이코쇼크",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "heavy_slam",
+        "ko": "헤비봄버",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "electro_ball",
+        "ko": "일렉트릭볼",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "low_sweep",
+        "ko": "로킥",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "hex",
+        "ko": "병상첨병",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "dazzling_gleam",
+        "ko": "매지컬샤인",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "steel_beam",
+        "ko": "철제광선",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "poltergeist",
+        "ko": "폴터가이스트",
+        "method": "machine",
+        "level": 0
+      },
+      {
+        "en": "tera_blast",
+        "ko": "테라버스트",
+        "method": "machine",
         "level": 0
       }
     ]

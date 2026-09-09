@@ -2105,11 +2105,11 @@
             "hidden": true
           }
         ],
-        "inChampions": false,
+        "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10108.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__53.png"
   },
   {
@@ -3387,7 +3387,7 @@
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10166.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__83.png"
   },
   {
@@ -4873,7 +4873,7 @@
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10168.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__122.png"
   },
   {
@@ -11293,7 +11293,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__317.png"
   },
   {
@@ -13031,11 +13031,11 @@
             "hidden": false
           }
         ],
-        "inChampions": false,
+        "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10089.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__373.png"
   },
   {
@@ -23152,7 +23152,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__673.png"
   },
   {
@@ -26376,13 +26376,17 @@
           "강철"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "단단한발톱",
+            "en": "tough_claws",
+            "hidden": false
+          }
         ],
-        "inChampions": false,
+        "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10316.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__768.png"
   },
   {
@@ -27571,7 +27575,7 @@
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10209.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__812.png"
   },
   {
@@ -27670,7 +27674,7 @@
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10210.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__815.png"
   },
   {
@@ -27769,7 +27773,7 @@
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10211.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__818.png"
   },
   {
@@ -28122,7 +28126,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__828.png"
   },
   {
@@ -28935,7 +28939,7 @@
             "hidden": true
           }
         ],
-        "inChampions": false,
+        "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10184.png"
       },
       {
@@ -28968,7 +28972,7 @@
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10219.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__849.png"
   },
   {
@@ -29110,7 +29114,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__853.png"
   },
   {
@@ -29465,7 +29469,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__863.png"
   },
   {
@@ -29515,7 +29519,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__865.png"
   },
   {
@@ -29710,7 +29714,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__871.png"
   },
   {
@@ -29888,11 +29892,11 @@
             "hidden": true
           }
         ],
-        "inChampions": false,
+        "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10186.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__876.png"
   },
   {
@@ -31545,7 +31549,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__923.png"
   },
   {
@@ -31733,7 +31737,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__930.png"
   },
   {
@@ -31763,8 +31767,37 @@
         "hidden": true
       }
     ],
-    "forms": [],
-    "inChampions": false,
+    "forms": [
+      {
+        "type": "alt",
+        "name_ko": "시비꼬 옐로 페더",
+        "name_en": "squawkabilly_yellow",
+        "sprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__931.png",
+        "types": [
+          "노말",
+          "비행"
+        ],
+        "abilities": [
+          {
+            "ko": "위협",
+            "en": "intimidate",
+            "hidden": false
+          },
+          {
+            "ko": "의욕",
+            "en": "hustle",
+            "hidden": false
+          },
+          {
+            "ko": "우격다짐",
+            "en": "sheer_force",
+            "hidden": true
+          }
+        ],
+        "inChampions": true
+      }
+    ],
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__931.png"
   },
   {
@@ -32113,7 +32146,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__943.png"
   },
   {
@@ -32977,7 +33010,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__972.png"
   },
   {
@@ -33732,13 +33765,17 @@
           "얼음"
         ],
         "abilities": [
-          "?"
+          {
+            "ko": "열교환",
+            "en": "thermal_exchange",
+            "hidden": false
+          }
         ],
-        "inChampions": false,
+        "inChampions": true,
         "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__10325.png"
       }
     ],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__998.png"
   },
   {
@@ -33779,7 +33816,7 @@
       }
     ],
     "forms": [],
-    "inChampions": false,
+    "inChampions": true,
     "shinySprite": "/sprites/pokemon/master__sprites__pokemon__other__official-artwork__shiny__1000.png"
   },
   {
